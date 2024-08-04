@@ -6,7 +6,7 @@ Meu nome é Milena Alves
 - Estou me desenvolvendo na linguagem JavaScript
 - Uso essa plataforma para o compartilhamento dos meus projetos desenvolvidos.
 
-  ### Você pode entrar em contanto comigo: ✉️,
+  ### Você pode entrar em contanto comigo: ✉️
 
   milenaalvessantos20@gmail.com
 
